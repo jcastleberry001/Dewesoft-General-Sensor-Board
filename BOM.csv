@@ -1,0 +1,6 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"930-DS/03"	"DATA"	"CONN-TH_3P-P3.50_930-DS-03"	"1"	"930-DS/03"	"WECO(威克德诺)"	"LCSC"	"C19108928"	"0.976"
+"2"	"930-DS/02"	"POWER"	"CONN-TH_2P-P3.50_930-DS-02"	"1"	"930-DS/02"	"WECO(威克德诺)"	"LCSC"	"C2974856"	"0.668"
+"3"	"50Ω"	"R1"	"R2010"	"1"	"AR10FTCO0500"	"Viking(光颉)"	"LCSC"	"C3294591"	"0.079"
+"4"	"DS-06RP"	"SW1"	"SW-TH_DS-06RP"	"1"	"DS-06RP"	"XKB Connectivity(中国星坤)"	"LCSC"	"C319058"	"0.46"
+"5"	"GXE00"	"TEDS"	"TO-92-3_L4.9-W3.7-P1.27-L"	"1"	"GXE00"	"GXCAS(中科银河芯)"	"LCSC"	"C2980325"	"0.784"
